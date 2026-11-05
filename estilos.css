@@ -1,0 +1,59 @@
+body {
+	background-color: #171412;
+	color: #F2EEE8;
+	font-family: Arial, sans-serif;
+	margin: 40px;
+}
+
+h1 {
+	color: #D8C5A5;
+	background-color: #38251D;
+	text-align: center;
+	font-family: cursive;
+}
+
+img {
+	width: 100%;
+	max-width: 900px;
+	display: block;	
+}
+
+h2 {
+	color: #B58A61;
+	font-family: cursive;
+}
+
+h3 {
+	color: #D8C5A5;
+	font-family: cursive;
+}
+
+p {
+	color: #F2EEE8;
+	font-size: 17px
+}
+
+ul {
+	background-color: #38251D;
+}
+
+li {
+	color: #D8C5A5;
+	font-size: 17px;
+}	
+.opinioes {
+	font-family: Cursive;
+}
+
+a:hover {
+	background-color: orange;
+}
+
+[href] {
+	color: #F2EEE8;
+}
+
+/* 1- a regra CSS mais dificil foi o font size, visto que eu não sabia quanto era um tamanho aceitável para um texto "normal", então foi tentativa e erro   
+   2- o meu erro mais comum, sem duvida alguma é esquecer de por o ponto e vírgula
+   3- A utilização do href serve para criar uma hiperligação, em palavras do dia dia um link, para irmos para um outro site que pode ser para continuação do site ou uma fonte
+*/   
